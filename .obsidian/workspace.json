@@ -1,0 +1,366 @@
+{
+  "main": {
+    "id": "9951b6268f4471af",
+    "type": "split",
+    "children": [
+      {
+        "id": "02b5f066639c4962",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2dcd01706828065",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "歷程－阿魯(怪物之心).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "歷程－阿魯(怪物之心)"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0ba5d5302b240cbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "080cb7777ab124a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "瓦羅湛普.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "瓦羅湛普"
+            }
+          },
+          {
+            "id": "9db7161e8e76e7c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "卡拉蒙.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "卡拉蒙"
+            }
+          },
+          {
+            "id": "2387d71764ead5a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "在不諧靈智之神前臣服.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "在不諧靈智之神前臣服"
+            }
+          },
+          {
+            "id": "f648f06b3d195155",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "伊爾神思因.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "伊爾神思因"
+            }
+          },
+          {
+            "id": "2616608a9528fcb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "伊爾瓦什.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "伊爾瓦什"
+            }
+          },
+          {
+            "id": "751a06a370dd3185",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "奪心魔.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "奪心魔"
+            }
+          },
+          {
+            "id": "38966aae33c7ad0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "惡魔船.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "惡魔船"
+            }
+          },
+          {
+            "id": "d06cd7850f97e56d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "拉瑞納．桑德雷斯.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "拉瑞納．桑德雷斯"
+            }
+          },
+          {
+            "id": "b052fe0a80c802f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "哈姆立克.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "哈姆立克"
+            }
+          },
+          {
+            "id": "42075c7f4e7a602d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "迷誘魔.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "迷誘魔"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2062fba0a93b6e34",
+    "type": "split",
+    "children": [
+      {
+        "id": "941b6d954e736318",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "670984a91de9132d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "2c14fb6e26c9d0d7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5aac4bfec1ec5000",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f8308951db7cddc",
+        "type": "tabs",
+        "dimension": 54.55426356589148,
+        "children": [
+          {
+            "id": "b440a583d2d156ea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "反向連結"
+            }
+          },
+          {
+            "id": "c972d2f7ba4dc97b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "對外連結"
+            }
+          },
+          {
+            "id": "b0c8f187325a0e6c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "歷程—阿登(礦坑、冰峰塔、方尖碑).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "歷程—阿登(礦坑、冰峰塔、方尖碑) 的大綱"
+            }
+          },
+          {
+            "id": "c4d5c2d2e8cda60f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "藤",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "7f720c7e49b0d389",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "a5844881aed255a2",
+        "type": "tabs",
+        "dimension": 45.44573643410852,
+        "children": [
+          {
+            "id": "9bfc4b8bab001d11",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "關聯圖檢視"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 382.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:建立新的 base": false,
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "d2dcd01706828065",
+  "lastOpenFiles": [
+    "歷程—阿登(礦坑、冰峰塔、方尖碑).md",
+    "哈姆立克.md",
+    "拉瑞納．桑德雷斯.md",
+    "迷誘魔.md",
+    "惡魔船.md",
+    "瓦羅湛普.md",
+    "卡拉蒙.md",
+    "瑪蒂莎·藤語.md",
+    "在不諧靈智之神前臣服.md",
+    "伊爾神思因.md",
+    "伊爾瓦什.md",
+    "利嘴毛球.md",
+    "奪心魔.md",
+    "主腦.md",
+    "澤林.md",
+    "濃目眼魔.md",
+    "歷程－阿魯(怪物之心).md",
+    "璐娜.md",
+    "幽魂碎片.md",
+    "永夜港.md",
+    "吸血鬼.md",
+    "阿撒勒茲.md",
+    "黑龍岩.md",
+    "大麥克.md",
+    "阿瑟米.md",
+    "銀龍裔勇士.md",
+    "考利安的求救信件.png",
+    "DND模板"
+  ]
+}
