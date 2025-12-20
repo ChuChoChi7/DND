@@ -4,8 +4,205 @@
     "type": "split",
     "children": [
       {
+        "id": "e78c2a29f9344bec",
+        "type": "tabs",
+        "dimension": 72.89972899728997,
+        "children": [
+          {
+            "id": "a312843864f1fb20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "歷程－阿赫(斯特拉德).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "歷程－阿赫(斯特拉德)"
+            }
+          },
+          {
+            "id": "11a39c0ef78f631e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "亡靈山丘.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "亡靈山丘"
+            }
+          },
+          {
+            "id": "b69cc0f13dcff249",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "伊斯馬克.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "伊斯馬克"
+            }
+          },
+          {
+            "id": "edae9fe91cb0509c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "達妮卡.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "達妮卡"
+            }
+          },
+          {
+            "id": "c212507b875362db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "巴拉圖克湖.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "巴拉圖克湖"
+            }
+          },
+          {
+            "id": "65c3ee68912c8288",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "艾德里安．馬可夫.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "艾德里安．馬可夫"
+            }
+          },
+          {
+            "id": "9c36421a06aad0ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "渡鴉人.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "渡鴉人"
+            }
+          },
+          {
+            "id": "d829cc98b6b48974",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "美酒巫師莊園.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "美酒巫師莊園"
+            }
+          },
+          {
+            "id": "3073529d85fcc1ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "艾爾維．馬可夫.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "艾爾維．馬可夫"
+            }
+          },
+          {
+            "id": "127c8b1902f6c51c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "狼人.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "狼人"
+            }
+          },
+          {
+            "id": "291f658cbcb725d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "甘提亞斯法杖.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "甘提亞斯法杖"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0276816c435e3985",
+        "type": "tabs",
+        "dimension": 13.550135501355012,
+        "children": [
+          {
+            "id": "dbb1405b6c80c7a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "歷程－阿魯(怪物之心).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "歷程－阿魯(怪物之心)"
+            }
+          },
+          {
+            "id": "ddab851a7dc5ec4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阿瑟米.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "阿瑟米"
+            }
+          }
+        ]
+      },
+      {
         "id": "508cb7f47840d14f",
         "type": "tabs",
+        "dimension": 13.550135501355012,
         "children": [
           {
             "id": "b6ff330a7629159a",
@@ -300,7 +497,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -313,34 +510,34 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "b6ff330a7629159a",
+  "active": "a312843864f1fb20",
   "lastOpenFiles": [
-    "阿哇巴.md",
+    "甘提亞斯法杖.md",
+    "狼人.md",
+    "艾爾維．馬可夫.md",
+    "美酒巫師莊園.md",
+    "渡鴉人.md",
+    "艾德里安．馬可夫.md",
+    "巴拉圖克湖.md",
+    "達妮卡.md",
+    "伊斯馬克.md",
+    "亡靈山丘.md",
+    "歷程－阿赫(斯特拉德).md",
+    "歷程－阿魯(怪物之心).md",
+    "骷髏騎士.md",
     "歷程－阿米爾.md",
+    "阿哇巴.md",
+    "馬特瑞斯.md",
+    "阿瑟米.md",
+    "燭堡.md",
+    "貝爾戈斯特.md",
+    "拉蘭瑟．費爾伯瑞絲.md",
     "阿米爾．哈洛溫.md",
     "斐恩．莫尼亨多.md",
     "法克雷托.md",
     "茴香.md",
     "香菜.md",
-    "馬特瑞斯.md",
-    "拉蘭瑟．費爾伯瑞絲.md",
-    "貝爾戈斯特.md",
-    "燭堡.md",
     "夏恩布萊特.md",
-    "南瓜蛛行怪.md",
-    "南瓜巨像.md",
-    "南瓜頭術者.md",
-    "歷程－阿魯(怪物之心).md",
-    "2025-11-08.md",
-    "歷程－阿赫(斯特拉德).md",
-    "瑞克塔維歐.md",
-    "瑞吉蕾芙.md",
-    "甘提亞斯法杖.md",
-    "美酒巫師莊園.md",
-    "瓦拉吉鎮.md",
-    "達妮卡.md",
-    "狼人.md",
-    "2025-11-03.md",
     "考利安的求救信件.png",
     "DND模板"
   ]
