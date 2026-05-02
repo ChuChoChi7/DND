@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "20ec1993edf08cf8",
+        "id": "10d07226085540a2",
         "type": "tabs",
-        "dimension": 60.23035230352304,
+        "dimension": 76.13365155131265,
         "children": [
           {
-            "id": "12f11839418082d3",
+            "id": "3d1260c8bdfc9487",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,7 +27,7 @@
       {
         "id": "0276816c435e3985",
         "type": "tabs",
-        "dimension": 13.550135501355012,
+        "dimension": 11.933174224343675,
         "children": [
           {
             "id": "dbb1405b6c80c7a8",
@@ -160,7 +160,7 @@
       {
         "id": "508cb7f47840d14f",
         "type": "tabs",
-        "dimension": 26.21951219512195,
+        "dimension": 11.933174224343675,
         "children": [
           {
             "id": "b6ff330a7629159a",
@@ -316,7 +316,8 @@
               "title": "燭堡"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -420,7 +421,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "堡",
+                "query": "奧金",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -480,9 +481,17 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "12f11839418082d3",
+  "active": "3d1260c8bdfc9487",
   "lastOpenFiles": [
+    "歷程－阿魯(怪物之心).md",
     "歷程－阿米爾.md",
+    "歷程－阿赫(斯特拉德).md",
+    "阿拉貝拉.md",
+    "薩維德.md",
+    "奧金弗斯特.md",
+    "還魂屍.md",
+    "奧金弗斯特大宅.md",
+    "穆瑞爾.md",
     "歷程—阿登(礦坑、冰峰塔、方尖碑).md",
     "渡鴉人.md",
     "巨足蠕蟲.md",
@@ -493,7 +502,6 @@
     "坎文.md",
     "面向內向的心靈的真理.md",
     "大眼魔.md",
-    "歷程－阿赫(斯特拉德).md",
     "底棲魔魚.md",
     "燭堡.md",
     "拉蘭瑟．費爾伯瑞絲.md",
@@ -501,13 +509,6 @@
     "埃伯德.md",
     "圖拉.md",
     "克林科.md",
-    "舍姆希姆的搖籃曲.md",
-    "舍姆希姆.md",
-    "蓋比.md",
-    "阿哇.md",
-    "阿哇巴.md",
-    "貝爾戈斯特.md",
-    "馬特瑞斯.md",
     "考利安的求救信件.png",
     "DND模板"
   ]
