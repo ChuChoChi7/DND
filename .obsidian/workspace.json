@@ -4,9 +4,30 @@
     "type": "split",
     "children": [
       {
+        "id": "7fcc2691ec9fee65",
+        "type": "tabs",
+        "dimension": 13.540961408259985,
+        "children": [
+          {
+            "id": "aab1e6fcfc085247",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "歷程 - 阿梅(轉生埃米亞).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "歷程 - 阿梅(轉生埃米亞)"
+            }
+          }
+        ]
+      },
+      {
         "id": "a2e8b957c35ff906",
         "type": "tabs",
-        "dimension": 65.75342465753424,
+        "dimension": 51.99729180771835,
         "children": [
           {
             "id": "0dbce447d186a021",
@@ -23,31 +44,31 @@
             }
           },
           {
-            "id": "3b05dd1ab1efb8a2",
+            "id": "ae0243a422eb4ee2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "馬克維爾修道院.md",
+                "file": "吸血鬼眷族.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "馬克維爾修道院"
+              "title": "吸血鬼眷族"
             }
           },
           {
-            "id": "c6f6a6b592e2219b",
+            "id": "727384f26ba45855",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "美酒巫師莊園.md",
+                "file": "戈爾圖達.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "美酒巫師莊園"
+              "title": "戈爾圖達"
             }
           },
           {
@@ -62,6 +83,20 @@
               },
               "icon": "lucide-file",
               "title": "斯特拉德．馮．札洛維奇"
+            }
+          },
+          {
+            "id": "2ad8319a8565fc23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "吸血鬼.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "吸血鬼"
             }
           },
           {
@@ -153,7 +188,7 @@
       {
         "id": "508cb7f47840d14f",
         "type": "tabs",
-        "dimension": 34.24657534246575,
+        "dimension": 34.46174678402166,
         "children": [
           {
             "id": "b6ff330a7629159a",
@@ -485,7 +520,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "修道",
+                "query": "吸血",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -547,18 +582,22 @@
   },
   "active": "0dbce447d186a021",
   "lastOpenFiles": [
-    "鴉閣堡.md",
-    "太陽劍.md",
+    "吸血鬼眷族.md",
+    "歷程 - 阿梅(轉生埃米亞).md",
+    "歷程－阿赫(斯特拉德).md",
     "斯特拉德．馮．札洛維奇.md",
     "美酒巫師莊園.md",
-    "馬克維爾修道院.md",
-    "歷程－阿赫(斯特拉德).md",
-    "歷程－阿米爾(燭堡).md",
-    "亨里克．范．德．沃特.md",
-    "賽勒斯.md",
-    "埃米爾.md",
     "預言.md",
+    "埃米爾.md",
+    "賽勒斯.md",
+    "馬克維爾修道院.md",
+    "吸血鬼.md",
+    "戈爾圖達.md",
+    "鴉閣堡.md",
+    "歷程－阿米爾(燭堡).md",
     "阿梅.md",
+    "太陽劍.md",
+    "亨里克．范．德．沃特.md",
     "暫時.md",
     "暫時.md",
     "伊麗娜．考利安娜.md",
@@ -567,12 +606,8 @@
     "唐納維奇.md",
     "糕餅磨坊.md",
     "鬼婆.md",
-    "戈爾圖達.md",
     "戈爾圖達的娃娃.md",
     "暫時紀錄.md",
-    "歷程－阿魯(怪物之心).md",
-    "燭堡.md",
-    "歷程—阿登(礦坑、冰峰塔、方尖碑).md",
     "考利安的求救信件.png",
     "DND模板"
   ]
