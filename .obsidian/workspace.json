@@ -6,7 +6,7 @@
       {
         "id": "7fcc2691ec9fee65",
         "type": "tabs",
-        "dimension": 13.540961408259985,
+        "dimension": 13.550135501355012,
         "children": [
           {
             "id": "aab1e6fcfc085247",
@@ -27,7 +27,7 @@
       {
         "id": "a2e8b957c35ff906",
         "type": "tabs",
-        "dimension": 51.99729180771835,
+        "dimension": 72.89972899728997,
         "children": [
           {
             "id": "0dbce447d186a021",
@@ -41,6 +41,20 @@
               },
               "icon": "lucide-file",
               "title": "歷程－阿赫(斯特拉德)"
+            }
+          },
+          {
+            "id": "b737c439fabc9016",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "琥珀神殿.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "琥珀神殿"
             }
           },
           {
@@ -188,7 +202,7 @@
       {
         "id": "508cb7f47840d14f",
         "type": "tabs",
-        "dimension": 34.46174678402166,
+        "dimension": 13.550135501355012,
         "children": [
           {
             "id": "b6ff330a7629159a",
@@ -582,16 +596,17 @@
   },
   "active": "0dbce447d186a021",
   "lastOpenFiles": [
+    "琥珀神殿.md",
+    "歷程－阿赫(斯特拉德).md",
+    "吸血鬼.md",
     "吸血鬼眷族.md",
     "歷程 - 阿梅(轉生埃米亞).md",
-    "歷程－阿赫(斯特拉德).md",
     "斯特拉德．馮．札洛維奇.md",
     "美酒巫師莊園.md",
     "預言.md",
     "埃米爾.md",
     "賽勒斯.md",
     "馬克維爾修道院.md",
-    "吸血鬼.md",
     "戈爾圖達.md",
     "鴉閣堡.md",
     "歷程－阿米爾(燭堡).md",
@@ -607,7 +622,6 @@
     "糕餅磨坊.md",
     "鬼婆.md",
     "戈爾圖達的娃娃.md",
-    "暫時紀錄.md",
     "考利安的求救信件.png",
     "DND模板"
   ]
