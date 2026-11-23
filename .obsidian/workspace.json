@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "508cb7f47840d14f",
+        "id": "8496fb0683e05d35",
         "type": "tabs",
         "children": [
           {
@@ -13,82 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "歷程－阿米爾(燭堡).md",
+                "file": "歷程—阿登(礦坑、冰峰塔、方尖碑).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "歷程－阿米爾(燭堡)"
-            }
-          },
-          {
-            "id": "71bc084d93aa1e44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "穴居怪.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "穴居怪"
-            }
-          },
-          {
-            "id": "d9d72374f6417f08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "獨角獸.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "獨角獸"
-            }
-          },
-          {
-            "id": "f4c35a43dcc2f79b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "皮爾沃斯.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "皮爾沃斯"
-            }
-          },
-          {
-            "id": "653d63942a9e1ecc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "半羊人.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "半羊人"
-            }
-          },
-          {
-            "id": "cb3501e69fd8a476",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "燭堡.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "燭堡"
+              "title": "歷程—阿登(礦坑、冰峰塔、方尖碑)"
             }
           }
         ]
@@ -149,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "歷程－阿魯(怪物之心).md",
+                "file": "歷程 - 阿梅(轉生埃米亞).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +89,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "歷程－阿魯(怪物之心) 的反向連結"
+              "title": "反向連結"
             }
           },
           {
@@ -168,12 +98,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "歷程—阿登(礦坑、冰峰塔、方尖碑).md",
+                "file": "歷程 - 阿梅(轉生埃米亞).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "歷程—阿登(礦坑、冰峰塔、方尖碑) 的對外連結"
+              "title": "對外連結"
             }
           },
           {
@@ -182,13 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "歷程－阿魯(怪物之心).md",
+                "file": "歷程 - 阿梅(轉生埃米亞).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "歷程－阿魯(怪物之心) 的大綱"
+              "title": "大綱"
             }
           },
           {
@@ -197,7 +127,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "吸血",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -244,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 375.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,32 +189,32 @@
   },
   "active": "b6ff330a7629159a",
   "lastOpenFiles": [
-    "寇濤魚人.md",
-    "斯洛布多.md",
-    "幽暗地域.md",
-    "歷程—阿登(礦坑、冰峰塔、方尖碑).md",
-    "歷程－阿米爾(燭堡).md",
-    "燭堡.md",
-    "澤地熊人.md",
-    "費倫.md",
     "歷程 - 阿梅(轉生埃米亞).md",
-    "2026-10-09.md",
-    "暫時.md",
-    "拉蘭瑟．費爾伯瑞絲.md",
-    "瓦尼爾.md",
-    "埃伯德.md",
-    "圖拉.md",
-    "克林科.md",
-    "舍姆希姆.md",
-    "舍姆希姆的搖籃曲.md",
-    "蓋比.md",
-    "渡鴉人.md",
-    "維亞利斯．黃丘.md",
-    "法爾.md",
-    "提亞馬特.md",
-    "焚舌教.md",
-    "穴居怪.md",
-    "皮爾沃斯.md",
+    "美美.md",
+    "恆龍王國.md",
+    "祝禱聖城.md",
+    "薩瓦牧拉.md",
+    "藤蔓屍怪.md",
+    "堅硬屍怪.md",
+    "禿毛.md",
+    "莉琪.md",
+    "忍忍.md",
+    "蕈菇地城.md",
+    "懼噬體.md",
+    "流星碎片.md",
+    "嗜魂之森.md",
+    "黑龍岩.md",
+    "蕈菇王.md",
+    "歷程－阿赫(斯特拉德).md",
+    "琥珀神殿.md",
+    "卡卡.md",
+    "諾斯異怪.md",
+    "綠火焰頭骨.md",
+    "史拉亡蟾.md",
+    "鬼魂.md",
+    "魔法塔日誌.md",
+    "羅林.md",
+    "灰夫人.md",
     "考利安的求救信件.png",
     "DND模板"
   ]
